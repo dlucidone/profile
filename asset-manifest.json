@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.c828caf1.chunk.css",
+    "main.js": "/profile/static/js/main.0d11aafc.chunk.js",
+    "main.js.map": "/profile/static/js/main.0d11aafc.chunk.js.map",
+    "runtime-main.js": "/profile/static/js/runtime-main.b92aba45.js",
+    "runtime-main.js.map": "/profile/static/js/runtime-main.b92aba45.js.map",
+    "static/js/2.72c5a176.chunk.js": "/profile/static/js/2.72c5a176.chunk.js",
+    "static/js/2.72c5a176.chunk.js.map": "/profile/static/js/2.72c5a176.chunk.js.map",
+    "static/js/3.137e98e6.chunk.js": "/profile/static/js/3.137e98e6.chunk.js",
+    "static/js/3.137e98e6.chunk.js.map": "/profile/static/js/3.137e98e6.chunk.js.map",
+    "index.html": "/profile/index.html",
+    "static/css/main.c828caf1.chunk.css.map": "/profile/static/css/main.c828caf1.chunk.css.map",
+    "static/js/2.72c5a176.chunk.js.LICENSE.txt": "/profile/static/js/2.72c5a176.chunk.js.LICENSE.txt",
+    "static/media/ant-design.70fb4cf1.svg": "/profile/static/media/ant-design.70fb4cf1.svg",
+    "static/media/bootstrap.527d0fc0.svg": "/profile/static/media/bootstrap.527d0fc0.svg",
+    "static/media/docker-icon.d33285e5.svg": "/profile/static/media/docker-icon.d33285e5.svg",
+    "static/media/graphql.61116f4f.svg": "/profile/static/media/graphql.61116f4f.svg",
+    "static/media/jest.bdea2af6.svg": "/profile/static/media/jest.bdea2af6.svg",
+    "static/media/material-ui.741a52f5.svg": "/profile/static/media/material-ui.741a52f5.svg",
+    "static/media/nativescript.4e3f3254.svg": "/profile/static/media/nativescript.4e3f3254.svg",
+    "static/media/nodejs.3dc364b8.svg": "/profile/static/media/nodejs.3dc364b8.svg",
+    "static/media/react.e27571ea.svg": "/profile/static/media/react.e27571ea.svg",
+    "static/media/redux.a9567540.svg": "/profile/static/media/redux.a9567540.svg",
+    "static/media/sass.8351205a.svg": "/profile/static/media/sass.8351205a.svg",
+    "static/media/storybook-icon.c5da0e8c.svg": "/profile/static/media/storybook-icon.c5da0e8c.svg",
+    "static/media/terraform-icon.b793846b.svg": "/profile/static/media/terraform-icon.b793846b.svg",
+    "static/media/typescript-icon.17d5e87e.svg": "/profile/static/media/typescript-icon.17d5e87e.svg",
+    "static/media/webpack.b460dec8.svg": "/profile/static/media/webpack.b460dec8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b92aba45.js",
+    "static/js/2.72c5a176.chunk.js",
+    "static/css/main.c828caf1.chunk.css",
+    "static/js/main.0d11aafc.chunk.js"
+  ]
+}
